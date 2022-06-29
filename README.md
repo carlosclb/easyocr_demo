@@ -1,1 +1,2 @@
-# easyocr_demo1
+# easyocr_demo
+model files in qq
