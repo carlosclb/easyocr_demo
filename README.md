@@ -1,2 +1,2 @@
 # easyocr_demo
-model files in qq
+model files saved in qq
